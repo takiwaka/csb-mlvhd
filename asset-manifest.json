@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://takiwaka.github.io/csb-mlvhd/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://takiwaka.github.io/csb-mlvhd/static/js/main.93d21136.chunk.js",
-    "main.js.map": "https://takiwaka.github.io/csb-mlvhd/static/js/main.93d21136.chunk.js.map",
+    "main.js": "https://takiwaka.github.io/csb-mlvhd/static/js/main.d3a68045.chunk.js",
+    "main.js.map": "https://takiwaka.github.io/csb-mlvhd/static/js/main.d3a68045.chunk.js.map",
     "runtime-main.js": "https://takiwaka.github.io/csb-mlvhd/static/js/runtime-main.ddc4389f.js",
     "runtime-main.js.map": "https://takiwaka.github.io/csb-mlvhd/static/js/runtime-main.ddc4389f.js.map",
     "static/js/2.68a10e04.chunk.js": "https://takiwaka.github.io/csb-mlvhd/static/js/2.68a10e04.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ddc4389f.js",
     "static/js/2.68a10e04.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.93d21136.chunk.js"
+    "static/js/main.d3a68045.chunk.js"
   ]
 }
